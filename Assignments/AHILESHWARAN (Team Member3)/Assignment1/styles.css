@@ -1,13 +1,13 @@
 .resume{
     width: 800px;
     height: auto;
-    /* background-color:#EEF2E6 ;  */
+    /* background-color:#ABD9FF ;  */
     margin:0 250px 0 ;
     
 }
 nav{
     opacity: .70;
-    /* background-color: #EEF2E6; */
+    /* background-color: #ABD9FF; */
 }
 .navitems{
     justify-content: flex-end;
