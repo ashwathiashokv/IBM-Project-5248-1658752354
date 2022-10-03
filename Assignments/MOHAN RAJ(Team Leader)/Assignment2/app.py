@@ -59,9 +59,7 @@ def register():
         mysql.connection.commit()
         mesage = 'You have successfully registered !'
         
-    # elif request.method == 'POST':
-    # mesage = 'Please fill out the form !'
-    # return render_template('register.html', mesage = mesage)
+    
 
 if __name__ == "__main__":
     app.run()
